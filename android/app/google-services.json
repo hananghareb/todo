@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61308699237",
+    "project_id": "todo-hti-b519d",
+    "storage_bucket": "todo-hti-b519d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61308699237:android:3ffb2d3554d40ff0a4fc8c",
+        "android_client_info": {
+          "package_name": "com.example.todo_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61308699237-qllevd3379rh2fqe84bg6emlfmn7dio5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOLv2DvPeJkHqWPM8Yy_5bywzPM-Wnwd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61308699237-qllevd3379rh2fqe84bg6emlfmn7dio5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
